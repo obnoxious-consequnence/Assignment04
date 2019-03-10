@@ -1,6 +1,8 @@
 # Assignment 4 - Pandas
 This assignment is about data processing and plotting.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/obnoxious-consequnence/Assignment04/master)
+
 ## Use pandas dataframe with poverty data
 Use this source: https://data.worldbank.org/indicator/SI.POV.DDAY and extract the csv file in jupyter notebook.
 With the help of Pandas' DataFrame do the following
